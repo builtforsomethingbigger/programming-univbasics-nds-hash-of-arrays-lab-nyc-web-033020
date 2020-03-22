@@ -8,5 +8,5 @@ BASE_HOA = {
 def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
-  BASE_HOA[1] << "Snarf"
+  BASE_HOA[1] << name
 end
